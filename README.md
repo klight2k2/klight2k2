@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @klight2k2
 - 💬 Ask me about every thing
 - 🌱 I’m currently learning in HUST
-- 📫 How to reach me: Facebook
+- 📫 How to reach me: Facebook https://www.facebook.com/klight2k2
 
 <!---
 klight2k2/klight2k2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
